@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     int n, i;
+    
     float num[20], sum=0, prom;
 
     cout << "Canditad de numeros para esta operacion: ";
